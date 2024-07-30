@@ -1,4 +1,4 @@
-## Oi, tudo bem? Boa vindas 👋❤️
+## Oi, tudo bem? Boas vindas 👋❤️
 
 Meu nome é Isabele
 - Estou estudando na [Alura](https://www.alura.com.br)
